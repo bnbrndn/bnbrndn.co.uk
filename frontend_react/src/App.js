@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './assets/bnbrndn-logo.jpeg';
 
 function App() {
   return (
